@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://netlab.github.io/sitemap.xml
+Sitemap: https://networkedlab.github.io/sitemap.xml
