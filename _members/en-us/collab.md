@@ -4,13 +4,14 @@ title: Aluno Fulano
 description: 
 img: assets/img/members/aluno.png
 importance: 1
-category: Student
+category: Collaborators
+redirect: https://unifesp.br
 # toc:
 #   sidebar: left
 
 profile:
-    name: Aluno Fulano
-    position: Master's student @ UNIFESP
+    name: Collab
+    position: Professor @ Mars University
     image: aluno.png
     align: right
     image_circular: false # crops the image to make it circular
@@ -20,9 +21,7 @@ profile:
     github: 
     website:
     address: >
-        Instituto de Ciência e Tecnologia<br />
-        Avenida Cesare Mansueto Giulio Lattes, 1201<br />
-        Eugênio de Mello, Brazil
+        Mars
     more_info: >
 
 ---

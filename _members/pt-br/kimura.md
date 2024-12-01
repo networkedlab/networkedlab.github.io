@@ -10,7 +10,7 @@ category: Professores
 
 profile:
     name: Bruno Y. L. Kimura
-    position: Professor Associado
+    position: Professor Associado @ UNIFESP
     image: kimura.png
     align: right
     image_circular: false # crops the image to make it circular

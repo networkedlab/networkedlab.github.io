@@ -13,7 +13,7 @@ profile:
     image: joahannes.jpg
     image_circular: false # crops the image to make it circular
     name: Joahannes Costa
-    position: Adjunct Professor
+    position: Adjunct Professor @ UNIFESP
     email: joahannes.costa@unifesp.br
     linkedin: joahannes-da-costa-804a1698
     orcid: 0000-0001-9973-2479

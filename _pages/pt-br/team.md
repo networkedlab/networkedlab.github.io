@@ -1,13 +1,15 @@
 ---
-page_id: test
+page_id: team
 layout: page
-title: membros
+title: equipe
 permalink: /team/
 description: Membros do laboratório
 nav: true
 nav_order: 1
-display_categories: [Professores, Estudantes]
+display_categories: [Professores, Estudantes, Colaboradores]
 horizontal: false
+# toc:
+#   sidebar: left
 ---
 
 <!-- pages/members.md -->

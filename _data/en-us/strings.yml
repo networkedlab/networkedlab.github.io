@@ -8,6 +8,7 @@ categories:
   work: work
   Faculty: Faculty
   Student: Student
+  Collaborators: Collaborators
 citation:
   bibtex: "or as a BibTeX entry:"
   introduction: "If you found this useful, please cite this as:"

@@ -10,7 +10,7 @@ category: Estudantes
 
 profile:
     name: Aluno Fulano
-    position: Master degree
+    position: Mestrando @ UNIFESP
     image: aluno.png
     align: right
     image_circular: false # crops the image to make it circular

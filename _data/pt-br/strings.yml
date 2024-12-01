@@ -8,6 +8,7 @@ categories:
   work: trabalho
   Professores: Professores
   Estudantes: Estudantes
+  Colaboradores: Colaboradores
 citation:
   bibtex: "ou como uma citação em BibTeX:"
   introduction: "Se você achou isso útil, por favor cite como:"

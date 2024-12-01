@@ -1,12 +1,12 @@
 ---
-page_id: test
+page_id: team
 layout: page
-title: members
+title: team
 permalink: /team/
 description: Members of the lab
 nav: true
 nav_order: 1
-display_categories: [Faculty, Student]
+display_categories: [Faculty, Student, Collaborators]
 horizontal: false
 ---
 
