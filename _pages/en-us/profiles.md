@@ -1,10 +1,10 @@
 ---
 page_id: profiles
 layout: profiles
-permalink: /team/
-title: team
+permalink: /profiles/
+title: profiles
 description: members of the lab or group
-nav: true
+nav: false
 nav_order: 1
 
 profiles:

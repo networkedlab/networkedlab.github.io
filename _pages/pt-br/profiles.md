@@ -1,10 +1,10 @@
 ---
 page_id: profiles
 layout: profiles
-permalink: /team/
+permalink: /profiles/
 title: equipe
 description: membros do grupo de pesquisa ou laboratório
-nav: true
+nav: false
 nav_order: 1
 
 profiles:
